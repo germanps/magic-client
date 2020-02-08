@@ -1,0 +1,12 @@
+@import './../../sass/base.scss';
+.header{
+    .titulo{
+        margin: 1rem 0;
+        a{
+            display: block;
+            &:hover{
+                text-decoration: none;
+            }
+        }
+    }
+}
