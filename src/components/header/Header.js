@@ -8,7 +8,7 @@ const Header = () => {
             <div className="container">
                 <h1 className="titulo">
                     <Link to={'/'} className="text-dark">
-                        CRUD - Productos
+                        Magic Arena
                     </Link>
                 </h1>
                 <Link to={"/productos/nuevo"} className="btn btn-success nuevo-post d-block d-md-inline-block" >
